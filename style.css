@@ -51,17 +51,17 @@ header li a {
 }
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
-  background: url('media/image-principale.JPG') no-repeat center center/cover;
+  background: url('media/image-principale.jpg') no-repeat center center/cover;
   height: 600px;
 }
 #ocean {
   background: url('media/ocean.jpg') no-repeat center center/cover;
 }
 #chateau {
-  background: url('media/chateau.JPG') no-repeat center center/cover;
+  background: url('media/chateau.jpg') no-repeat center center/cover;
 }
 #phare {
-  background: url('media/phare.JPG') no-repeat center center/cover;
+  background: url('media/phare.jpg') no-repeat center center/cover;
 }
 #vignoble {
   background: url('media/vignes.jpg') no-repeat center center/cover;
