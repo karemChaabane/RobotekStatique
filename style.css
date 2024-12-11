@@ -51,22 +51,11 @@ header li a {
 }
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
-  background: url('media/image-principale.jpg') no-repeat center center/cover;
-  height: 600px;
+  padding-top: 60px;
+  background: url(media/image-principale.jpg) no-repeat fixed 50% 50%;
+  background-size: cover;
+  height: 799px;
 }
-#ocean {
-  background: url('media/ocean.jpg') no-repeat center center/cover;
-}
-#chateau {
-  background: url('media/chateau.jpg') no-repeat center center/cover;
-}
-#phare {
-  background: url('media/phare.jpg') no-repeat center center/cover;
-}
-#vignoble {
-  background: url('media/vignes.jpg') no-repeat center center/cover;
-}
-
 h1 {
   font-family: 'Dancing Script', cursive;
   text-align: center;
